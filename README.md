@@ -10,7 +10,7 @@ Negative prompt: low-res, blurry, mutation, deformed
 Currently we have three examples:
 
 - `sd2/` contains a service with `txt2img/` endpoint utilizing [`stabilityai/stable-diffusion-2`](https://huggingface.co/stabilityai/stable-diffusion-2)
-- `sd2_mega/` contains a service with `txt2img/` and `img2img/` endpoints utilizing [`stabilityai/stable-diffusion-2`](https://huggingface.co/stabilityai/stable-diffusion-2) and diffusers' [custom pipline](https://github.com/huggingface/diffusers/tree/main/examples/community)
+- `sd2_mega/` contains a service with `txt2img/` and `img2img/` endpoints utilizing [`stabilityai/stable-diffusion-2`](https://huggingface.co/stabilityai/stable-diffusion-2) and diffusers' [custom pipeline](https://github.com/huggingface/diffusers/tree/main/examples/community)
 - `anything_v3/` contains a service with `txt2img/` endpoint utilizing [`Linaqruf/anything-v3.0`](https://huggingface.co/Linaqruf/anything-v3.0)
 
 ## Prepare environment
